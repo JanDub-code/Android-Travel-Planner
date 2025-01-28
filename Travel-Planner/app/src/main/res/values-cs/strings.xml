@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Travel Planner</string>
+    <string name="back">Zpět</string>
+    <string name="map">Mapa</string>
+    <string name="itinerary">Itinerář</string>
+    <string name="attractions">Atrakce</string>
+    <string name="settings">Nastavení</string>
+
+    <string name="interests">Zájmy</string>
+    <string name="profile">Profil</string>
+    <string name="search">Vyhledávání</string>
+
+    <string name="choose_your_interests">Vyberte vaše zájmy</string>
+    <string name="other_selected_interests">Další vybrané zájmy</string>
+    <string name="nearby_attractions">Atrakce v okolí</string>
+    <string name="reccomended_attractions">Doporučené atrakce</string>
+    <string name="photo_scanner">Skenování obrázku</string>
+    <string name="scan_picture">Oskenuj obrázek</string>
+    <string name="save_interests">Ulož zájmy</string>
+    <string name="profil">Profil</string>
+    <string name="manage_your_acount_settings">Nastavení vašeho účtu</string>
+    <string name="username">Uživatelské jméno</string>
+    <string name="email">Email</string>
+    <string name="save_changes">Uložit změny</string>
+    <string name="adjust_your_application_settings">Uživatelské preference</string>
+    <string name="max_attractions_displayed">Množství zobrazených atrakcí</string>
+    <string name="maximum_distance">Maximální vzdálenost atrakcí (km)</string>
+    <string name="save_settings">Uložit nastavení</string>
+
+    <string name="select_picture">Vybrat obrázek</string>
+    <string name="scan_picture_for_interests">Skenuj obrázek pro zájmy</string>
+    <string name="add_interests_from_photo">+ Přidej zájmy z fotky</string>
+
+    <string name="nature">Příroda</string>
+    <string name="culture">Kultura</string>
+    <string name="adventure">Dobrodružství</string>
+    <string name="food">Jídlo</string>
+
+    <string name="your_picture">Váš obrázek</string>
+
+    <string name="your_location">Vaše lokace</string>
+    <string name="select_location">Vyberte vaši lokaci</string>
+    <string name="confirm_selection">Potvrdit výběr</string>
+
+    <string name="latitude">Zeměpisná šířka</string>
+    <string name="longitude">Zeměpisná délka</string>
+
+    <string name="enter_username">Zadejte vaši přezdívku</string>
+    <string name="enter_email">Zadejte váš email</string>
+    <string name="selected_location">Vybraná lokalita :</string>
+    <string name="enable_custom_markers">Zapnout stylové značky na mapě</string>
+    <string name="refresh_results">Obnovit výsledky</string>
+
+    <string name="attraction_details">Atrakce detaily</string>
+    <string name="attraction_plan">Atrakce plán</string>
+    <string name="confirm">Potvrdit</string>
+    <string name="return_to_itinerary">Návrat do itineráře</string>
+    <string name="select_your_transport_mode">Vyberte váš způsob dopravy</string>
+
+    <string name="rating">Hodnocení : </string>
+    <string name="address">Adresa :</string>
+    <string name="place">Název místa :</string>
+    <string name="time">Čas :</string>
+    <string name="loading">Načítání :</string>
+    <string name="distance">Vzdálenost :</string>
+
+    <string name="driving">Auto</string>
+    <string name="walking">Chůze</string>
+    <string name="transit">Veřejná doprava</string>
+
+</resources>
